@@ -149,8 +149,3 @@ public class HomeWork2 {
             }
         }
     }
-
-//Additianl Line for Pull Request
-    static void AddLine {
-        System.out.print("AddLine");
-       }
